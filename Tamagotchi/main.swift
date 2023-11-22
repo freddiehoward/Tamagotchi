@@ -42,3 +42,8 @@ class Tamagotchi {
 
 var tamagotchi1 = Tamagotchi(hungerLevel: 9, happinessLevel: 8, energyLevel: 7, healthLevel: 9, ageLevel: 0, weightLevel: 4, disciplineLevel: 2, generationLevel: 1, trainingLevel: 0, pointsLevel: 0)
 
+
+
+
+
+//checking changes for trial commit
